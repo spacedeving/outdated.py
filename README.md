@@ -19,7 +19,7 @@ YYYY-MM-DD
 
 Invalid input is rejected, and the user is re-prompted until a valid date is entered.
 
-🛠 Concepts Used
+Concepts Used
 
 String manipulation and parsing
 
